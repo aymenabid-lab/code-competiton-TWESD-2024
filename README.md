@@ -37,9 +37,9 @@ where
 
 We are asking teams to include working training code and a pre-trained model. Please include your pre-trained model in the `model` folder so that we can load it with the above command.
 
-The [Challenge website](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing) provides a training database with a description of the contents and structure of the data files.
+The [Challenge website](http://www.ceslab.org/TWESD2024/) provides a training database with a description of the contents and structure of the data files. The process of competition description is available at [Desciption document](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing)
 
-You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/aymenabid-lab/evaluation-AI-healyhcare-competition-TWESD2024) and running
+You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/aymenabid-lab/evaluation-AI-Healthcare-competition-TWESD2024) and running
 
     python evaluate_model.py -d labels -o test_outputs -s scores.csv
 
