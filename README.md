@@ -156,20 +156,8 @@ If you have trouble running your code, then please try the follow steps to run t
         root@[...]:/challenge# exit
         Exit
 
-## What else do I need?
-
-This repository does not include data or the code for generating ECG images. Please see the above instructions for how to download and prepare the data.
-
-This repository does not include code for evaluating your entry. Please see the [evaluation code repository](https://github.com/physionetchallenges/evaluation-2024) for code and instructions for evaluating your entry using the Challenge scoring metric.
-
-## How do I learn more? How do I share more?
-
-Please see the [Challenge website](https://physionetchallenges.org/2024/) for more details. Please post questions and concerns on the [Challenge discussion forum](https://groups.google.com/forum/#!forum/physionet-challenges). Please do not make pull requests, which may share information about your approach.
-
 ## Useful links
 
-* [Challenge website](https://physionetchallenges.org/2024/)
-* [MATLAB example code](https://github.com/physionetchallenges/matlab-example-2024)
-* [Evaluation code](https://github.com/physionetchallenges/evaluation-2024)
-* [Frequently asked questions (FAQ) for this year's Challenge](https://physionetchallenges.org/2024/faq/)
-* [Frequently asked questions (FAQ) about the Challenges in general](https://physionetchallenges.org/faq/)
+* [TWESD website]([https://physionetchallenges.org/2024/](http://ceslab.org/TWESD2024/))
+* [Evaluation code](https://github.com/aymenabid-lab/evaluation-AI-healyhcare-competition-TWESD2024)
+* [Classroom to send soltution](https://classroom.google.com/u/1/c/NjUyNjE0ODk0MDg5)
