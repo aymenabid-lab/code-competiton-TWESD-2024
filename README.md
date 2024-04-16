@@ -39,7 +39,7 @@ We are asking teams to include working training code and a pre-trained model. Pl
 
 The [Challenge website](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing) provides a training database with a description of the contents and structure of the data files.
 
-You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/physionetchallenges/evaluation-2024) and running
+You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/aymenabid-lab/evaluation-AI-healyhcare-competition-TWESD2024) and running
 
     python evaluate_model.py -d labels -o test_outputs -s scores.csv
 
