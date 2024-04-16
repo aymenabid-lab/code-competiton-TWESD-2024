@@ -158,6 +158,6 @@ If you have trouble running your code, then please try the follow steps to run t
 
 ## Useful links
 
-* [TWESD website]([https://physionetchallenges.org/2024/](http://ceslab.org/TWESD2024/))
+* [TWESD website](http://ceslab.org/TWESD2024/))
 * [Evaluation code](https://github.com/aymenabid-lab/evaluation-AI-healyhcare-competition-TWESD2024)
 * [Classroom to send soltution](https://classroom.google.com/u/1/c/NjUyNjE0ODk0MDg5)
