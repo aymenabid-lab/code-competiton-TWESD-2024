@@ -88,7 +88,7 @@ Please edit the following script to add your code:
 
 * `team_code.py` is a script with functions for training and running your trained model(s).
 
-Please do **not** edit the following scripts. We will use the unedited versions of these scripts when running your code:
+Please **do not edit** the following scripts. We will use the unedited versions of these scripts when running your code:
 
 * `train_model.py` is a script for training your model(s).
 * `run_model.py` is a script for running your trained model(s).
