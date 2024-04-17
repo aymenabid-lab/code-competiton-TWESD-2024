@@ -119,26 +119,26 @@ If you have trouble running your code, then please try the follow steps to run t
         user@computer:~$ cd example
         user@computer:~/example$ mkdir training_data test_data model test_outputs
 
-2. Download the training data from the [Challenge website](https://physionetchallenges.org/2024/#data). Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
+2. Download the training data of [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) as mentionned in the [Challenge Documentation](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing). Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
 
 3. Download or clone this repository in your terminal.
 
-        user@computer:~/example$ git clone https://github.com/physionetchallenges/python-example-2024.git
+        user@computer:~/example$ git clone https://github.com/aymenabid-lab/code-competiton-TWESD-2024.git   https://github.com/physionetchallenges/python-example-2024.git
 
 4. Build a Docker image and run the example code in your terminal.
 
         user@computer:~/example$ ls
-        model  python-example-2024  test_data  test_outputs  training_data
+        model  code-competiton-TWESD-2024  test_data  test_outputs  training_data
 
-        user@computer:~/example$ cd python-example-2024/
+        user@computer:~/example$ cd code-competiton-TWESD-2024/
 
-        user@computer:~/example/python-example-2024$ docker build -t image .
+        user@computer:~/example/code-competiton-TWESD-2024$ docker build -t image .
 
         Sending build context to Docker daemon  [...]kB
         [...]
         Successfully tagged image:latest
 
-        user@computer:~/example/python-example-2024$ docker run -it -v ~/example/model:/challenge/model -v ~/example/test_data:/challenge/test_data -v ~/example/test_outputs:/challenge/test_outputs -v ~/example/training_data:/challenge/training_data image bash
+        user@computer:~/example/code-competiton-TWESD-2024$ docker run -it -v ~/example/model:/challenge/model -v ~/example/test_data:/challenge/test_data -v ~/example/test_outputs:/challenge/test_outputs -v ~/example/training_data:/challenge/training_data image bash
 
         root@[...]:/challenge# ls
             Dockerfile             README.md         test_outputs
