@@ -123,7 +123,7 @@ If you have trouble running your code, then please try the follow steps to run t
 
 3. Download or clone this repository in your terminal.
 
-        user@computer:~/example$ git clone https://github.com/aymenabid-lab/code-competiton-TWESD-2024.git   https://github.com/physionetchallenges/python-example-2024.git
+        user@computer:~/example$ git clone https://github.com/aymenabid-lab/code-competiton-TWESD-2024.git
 
 4. Build a Docker image and run the example code in your terminal.
 
