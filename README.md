@@ -102,7 +102,7 @@ You can choose to create waveform reconstruction and/or classification models.
 
 To train and save your model(s), please edit the `train_digitization_model` and `train_diagnosis_model` functions in the `team_code.py` script. Please do not edit the input or output arguments of these function.
 
-To load and run your trained model(s), please edit the `load_digitization_model`, `load_diagnosis_model`, `run_digitization_model`, and `run_diagnosis_model` functions in the `team_code.py` script. Please do not edit the input or output arguments of these functions.
+To load and run your trained model(s), please edit the `load_digitization_model`, `load_diagnosis_model`, `run_digitization_model`, and `run_diagnosis_model` functions in the `team_code.py` script. Please **do not edit** the input or output arguments of these functions, including `run_diagnosis_model` functions of the `team_code.py`.
 
 ## How do I run these scripts in Docker?
 
