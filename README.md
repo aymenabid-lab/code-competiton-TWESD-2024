@@ -2,9 +2,9 @@
 
 ## What's in this repository?
 
-This repository contains a simple example that illustrates how to format a Python entry for the competition. If you are participating in the challenge, then we recommend using this repository as a template for your entry. You can remove some of the code, reuse other code, and add new code to create your entry. You do not need to use the models, features, and/or libraries in this example for your entry. We encourage a diversity of approaches for the Challenges.
+This repository contains a simple example that illustrates how to format a Python entry for the competition. If you are participating in the challenge, then we recommend using this repository as a template for your entry. You can remove some of the code, reuse other code, and add new code to create your entry. 
 
-For this example, a random forest model with several simple features exist. (This simple example is **not** designed to perform well, so you should **not** use it as a baseline for your approach's performance.) You can try it by running the following commands on the Challenge training set. If you are using a relatively recent personal computer, then you should be able to run these commands from start to finish on a small subset (1000 records) of the training data in less than 30 minutes.
+We encourage a diversity of approaches for the Challenges. For this example, a random forest model with several simple features exist. (This simple example is **not** designed to perform well, so you should **not** use it as a baseline for your approach's performance.) You can try it by running the following commands on the Challenge training set. If you are using a relatively recent personal computer, then you should be able to run these commands from start to finish on a small subset (1000 records) of the training data in less than 30 minutes.
 
 ## How do I run these scripts?
 
