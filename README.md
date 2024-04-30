@@ -37,7 +37,7 @@ where
 
 We are asking teams to include working training code and a pre-trained model. Please include your pre-trained model in the `model` folder so that we can load it with the above command.
 
-The [Challenge website](http://www.ceslab.org/TWESD2024/) provides a training database with a description of the contents and structure of the data files. The process of competition description is available at [Desciption document](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing)
+The [Challenge website](http://www.ceslab.org/TWESD2024/) provides a training database with a description of the contents and structure of the data files. The process of competition description is available at [Desciption document](https://streaklinks.com/B8t02MAUVLoFA3M_tQ3_Zzqd/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vSnVQb7K-wOnD6n4rrdqvgwXhX0qfIMEmf8U2BuoHqcRJBIE3Yw0_AnqZy7c_RyL89wmHAVpAJExzJD%2Fpub)
 
 You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/aymenabid-lab/evaluation-AI-Healthcare-competition-TWESD2024) and running
 
@@ -119,7 +119,7 @@ If you have trouble running your code, then please try the follow steps to run t
         user@computer:~$ cd example
         user@computer:~/example$ mkdir training_data test_data model test_outputs
 
-2. Download the training data of [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) as mentionned in the [Challenge Documentation](https://docs.google.com/document/d/1JvY1cgFr49i-zp5-ovEtRSaY9buSiSbbDJv9LiLPMZk/edit?usp=sharing). Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
+2. Download the training data of [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) as mentionned in the [Challenge Documentation](https://streaklinks.com/B8t02MAUVLoFA3M_tQ3_Zzqd/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vSnVQb7K-wOnD6n4rrdqvgwXhX0qfIMEmf8U2BuoHqcRJBIE3Yw0_AnqZy7c_RyL89wmHAVpAJExzJD%2Fpub). Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
 
 3. Download or clone this repository in your terminal.
 
