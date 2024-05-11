@@ -37,7 +37,7 @@ where
 
 We are asking teams to include working training code and a pre-trained model. Please include your pre-trained model in the `model` folder so that we can load it with the above command.
 
-The [Challenge website](http://www.ceslab.org/TWESD2024/) provides a training database with a description of the contents and structure of the data files. The process of competition description is available at [Desciption document](https://streaklinks.com/B8t02MAUVLoFA3M_tQ3_Zzqd/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vSnVQb7K-wOnD6n4rrdqvgwXhX0qfIMEmf8U2BuoHqcRJBIE3Yw0_AnqZy7c_RyL89wmHAVpAJExzJD%2Fpub)
+The [Challenge website](http://www.ceslab.org/TWESD2024/) provides a training database with a description of the contents and structure of the data files. The process of competition description is available at [Desciption document](https://docs.google.com/document/d/e/2PACX-1vT1lRtUdm_A_kvCX_LcxFRBRwQljDLel1ufxht4HHkjNNN77RvsVhT4bILPl_kfIbp-Y5o1ClSHURnJ/pub)
 
 You can evaluate your model by pulling or downloading the [evaluation code](https://github.com/aymenabid-lab/evaluation-AI-Healthcare-competition-TWESD2024) and running
 
@@ -51,7 +51,7 @@ where
 
 ## How do I create data for these scripts?
 
-You can use the scripts in this repository to generate synthetic ECG images for the [PTB-XL dataset](https://www.nature.com/articles/s41597-020-0495-6). You will need to generate or otherwise obtain ECG images before running the above steps.
+Here is only an example to give idea about creating or use of data for teh compztition. In fact, you can use the scripts in this repository to generate synthetic ECG images for the [PTB-XL dataset](https://www.nature.com/articles/s41597-020-0495-6). You will need to generate or otherwise obtain ECG images before running the above steps.
 
 1. Download (and unzip) the [PTB-XL dataset](https://physionet.org/content/ptb-xl/), ex. from [Files](https://physionet.org/content/ptb-xl/1.0.3/#files) section of 1.0.3 recommanded version for this TWESD AI Healthcare competition. We will use `ptb-xl` as the folder name that contains the data for these commands (the full folder name for the PTB-XL dataset is currently `ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3`), but you can replace it with the absolute or relative path on your machine.
 
