@@ -1,4 +1,4 @@
-# Exapmle of Python code for TWESD competition 2024
+# Exapmle of Python code for Smart Healthcare Competition - TWESD2024
 
 ## What's in this repository?
 
