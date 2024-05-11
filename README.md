@@ -119,7 +119,7 @@ If you have trouble running your code, then please try the follow steps to run t
         user@computer:~$ cd example
         user@computer:~/example$ mkdir training_data test_data model test_outputs
 
-2. Download the training data of [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) as mentionned in the [Challenge Documentation](https://streaklinks.com/B8t02MAUVLoFA3M_tQ3_Zzqd/https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2Fe%2F2PACX-1vSnVQb7K-wOnD6n4rrdqvgwXhX0qfIMEmf8U2BuoHqcRJBIE3Yw0_AnqZy7c_RyL89wmHAVpAJExzJD%2Fpub). Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
+2. Download the training data of [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/) if you want to try it for the Challenge. Put some of the training data in `training_data` and `test_data`. You can use some of the training data to check your code (and you should perform cross-validation on the training data to evaluate your algorithm).
 
 3. Download or clone this repository in your terminal.
 
